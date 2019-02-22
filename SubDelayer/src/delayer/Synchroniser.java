@@ -132,7 +132,6 @@ public class Synchroniser {
 		}
 		firstLine = true;
 	}
-	//TODO: save the right pace the NEW file!
 
 	public static int getDelay(
 			JTextField millisecondsTextField, JTextField minutesTextField, JTextField secondsTextField, JTextField hoursTextField) {
